@@ -301,6 +301,9 @@
         justify-content: center;
         align-items: center;
     }
+    .box6 {
+        flex-direction: column;
+    }
     .get {
         text-align: center;
 
