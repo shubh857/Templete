@@ -303,6 +303,8 @@
     }
     .box6 {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .get {
         text-align: center;
