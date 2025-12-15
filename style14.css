@@ -302,7 +302,10 @@
         justify-content: center;
         align-items: center;
     }
-    .get
+    .get {
+        text-align: center;
+
+    }
     .get1 {
         text-align: center;
     }
